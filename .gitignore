@@ -1,0 +1,8 @@
+﻿# clion
+.idea/
+cmake-build-debug/*
+build/*
+
+# vs
+.vs
+Test/x64/*
