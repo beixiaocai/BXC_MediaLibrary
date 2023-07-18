@@ -5,4 +5,8 @@ build/*
 
 # vs
 .vs
+BXC_AudioRecorder/x64/*
+BXC_AvEncoder/x64/*
+BXC_VideoRecorder/x64/*
 Test/x64/*
+x64/*
